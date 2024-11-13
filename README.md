@@ -3,7 +3,8 @@
 ## Greetings👋, I'm Muhammad Huzaifa Saleem
 A passionate Web Designer and Developer
 
-![Coding](https://plus.unsplash.com/premium_photo-1663100722417-6e36673fe0ed?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y29kaW5nfGVufDB8fDB8fHww)
+![Coding](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
+
 
 
 - 🔭 I’m currently working on **Front-End APPs with React**
