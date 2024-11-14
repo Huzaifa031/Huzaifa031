@@ -33,6 +33,6 @@ A passionate Web Designer and Developer
 
 ## Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa031&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huzaifa031)
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa031&show_icons=true&theme=radical)
 
 
