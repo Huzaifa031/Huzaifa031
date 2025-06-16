@@ -1,7 +1,3 @@
-Here’s your cleaned-up GitHub README with only the logos for **Python**, **HTML**, **CSS**, and **JavaScript**:
-
----
-
 # Muhammad Huzaifa Saleem – SQA Engineer & Automation Tester
 
 ## 👋 Greetings! I'm Muhammad Huzaifa Saleem
